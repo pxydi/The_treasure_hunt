@@ -16,3 +16,9 @@ echo " * key_1: Port-Royal, John Longsilver's ship is still docked there, visit 
 echo " * key_2: Blackbeard's castle, in the west tower of the castle."
 echo " * key_3: Oyster bay, the old lighthouse, that was a pirate meeting place."
 echo " "
+
+# Parrot gives a hint...
+for i in $( seq 1 10); do
+    echo "It's in the rhum bottles..."
+    sleep 2
+done
