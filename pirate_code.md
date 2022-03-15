@@ -41,6 +41,4 @@ get your fair share of the prize!
 
 Captain      : NAME_HERE
 Quartermaster: NAME_HERE
-First mate   : NAME_HERE
-
-
+First mate   : Daniel The Alpaca
